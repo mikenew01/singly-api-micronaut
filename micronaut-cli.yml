@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.github.maikoncanuto
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, flyway, github-workflow-docker-registry, hibernate-jpa, http-client, java, java-application, jdbc-hikari, junit, logback, lombok, maven, netty-server, openapi, postgres, reactor, readme, shade, testcontainers, yaml]
